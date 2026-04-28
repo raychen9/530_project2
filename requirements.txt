@@ -1,3 +1,6 @@
 redis
 python-dotenv
 pytest
+tinydb
+faiss-cpu
+numpy
